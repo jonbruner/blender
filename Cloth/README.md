@@ -10,6 +10,6 @@ I used a [Formlabs Form 2 SLA 3D printer](https://formlabs.com/3d-printers/form-
 
 ![3D-printed cloth drape model](images/cloth-drop-model.JPG)
 
-it's hard to photograph completely white objects, but the folded areas are incredibly smooth. The underside of the part includes a gratifying cavity where the cube would be; looking at it from below is sort of like staring through a completely invisible cube at a piece of cloth that's resting on it.
+It's hard to photograph completely white objects, but the folded areas are incredibly smooth. The underside of the part includes a gratifying cavity where the cube would be; looking at it from below is sort of like staring through a completely invisible cube at a piece of cloth that's resting on it.
 
 ![3D-printed cloth drape model from below](images/cloth-lift.gif)
