@@ -1,6 +1,6 @@
 # 3D printed cloth curves
 
-This begins with a cloth physics simulation in [Blender](https://www.blender.org/). You can experiment with the simulation yourself using [cloth.blend](cloth.blend) in this repo. Here's the result of the simulation (higher-resolution [available on Imgur](https://imgur.com/w7cfnq0)).
+This begins with a cloth physics simulation in [Blender](https://www.blender.org/). You can experiment with the simulation yourself using [cloth.blend](cloth.blend) in this repo. Here's the result of the simulation (higher-resolution [available on Imgur](https://imgur.com/kjC2Nti)).
 
 ![Cloth drop](images/cloth-drop.gif)
 
