@@ -8,8 +8,8 @@ The 3D-printed drape comes from the final frame of this animation; Blender expor
 
 I used a [Formlabs Form 2 SLA 3D printer](https://formlabs.com/3d-printers/form-2/) with [Rigid resin](https://formlabs.com/materials/engineering/#rigid-overview), a glass-filled material that offers extremely accurate prints with low creep and outstanding surface finish, even on thin parts. (Full disclosure: I work for Formlabs.) The printed result looks like this.
 
-![3D-printed cloth drape model](images/cloth-drop-model.jpg)
+![3D-printed cloth drape model](images/cloth-drop-model.JPG)
 
 it's hard to photograph completely white objects, but the folded areas are incredibly smooth. The underside of the part includes a gratifying cavity where the cube would be; looking at it from below is sort of like staring through a completely invisible cube at a piece of cloth that's resting on it.
 
-![3D-printed cloth drape model from below](images/cloth-drop-below.jpg)
+![3D-printed cloth drape model from below](images/cloth-lift.gif)
