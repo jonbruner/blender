@@ -2,4 +2,4 @@
 
 This begins with a cloth physics simulation in [Blender](https://www.blender.org/) (included here in [cloth.blend](cloth.blend)).
 
-![Simulated cloth drop](https://i.imgur.com/w7cfnq0.gifv)
+<blockquote class="imgur-embed-pub" lang="en" data-id="w7cfnq0"><a href="//imgur.com/w7cfnq0">Simulated cloth drop</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
